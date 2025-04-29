@@ -1,0 +1,7 @@
+# Ignore Xcode user data
+xcuserdata/
+xcshareddata/
+
+
+# SwiftLint Remote Config Cache
+.swiftlint/RemoteConfigCache
